@@ -7,4 +7,4 @@ This is a repository that holds my Python programs
 ## Web Scraping 
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-scrape.py |  Scrape Website Links |  [Program](https://github.com/randerson112358/Python/blob/master/scrape.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+scrape.py |  Scrape Website Links |  [Program](https://github.com/randerson112358/Python/blob/master/scrape.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/LGZEn1OYUTk)
