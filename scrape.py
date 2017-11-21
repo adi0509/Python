@@ -19,8 +19,9 @@ list =''
 
 # Get all URLS from <a> tags with attribute href
 for link in soup.find_all('a'):
-	list += link.get('href') + '\n'
-    #print(link.get('href'))
+	 print(link.get('href'))
+	#list += link.get('href') + '\n'
+   
 
 
-print(list)
+#print(list)
