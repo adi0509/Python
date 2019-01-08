@@ -20,3 +20,4 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 sentiment.py |  Sentiment Analysis |  [Program](https://github.com/randerson112358/Python/blob/master/sentiment.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/1VHhDSOwJPw)
 LinearRegression.py |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/LinearRegression.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/z7jEJY8FbA8)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
