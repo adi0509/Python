@@ -12,12 +12,12 @@ remove_empty_row.py | Removes Empty Rows |  [Program](https://github.com/randers
 ## Web Scraping 
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-scrape.py |  Scrape Website Links |  [Program](https://github.com/randerson112358/Python/blob/master/scrape.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/LGZEn1OYUTk)
+scrape.py |  Scrape Website Links |  [Program](https://github.com/randerson112358/Python/blob/master/scrape.py) | [Blog](https://medium.com/@randerson112358/scrape-website-using-python-90619cac7c97) | [YouTube](https://youtu.be/LGZEn1OYUTk)
 
 ## Machine Learning Programs 
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-sentiment.py |  Sentiment Analysis |  [Program](https://github.com/randerson112358/Python/blob/master/sentiment.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/1VHhDSOwJPw)
+sentiment.py |  Sentiment Analysis |  [Program](https://github.com/randerson112358/Python/blob/master/sentiment.py) | [Blog](https://medium.com/@randerson112358/sentiment-analysis-e2e4442bac13) | [YouTube](https://youtu.be/1VHhDSOwJPw)
 LinearRegression.py |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/LinearRegression.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/z7jEJY8FbA8)
 
 
