@@ -5,11 +5,12 @@ This is a repository that holds my Python programs
 </p>
 To see me programming in Python checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv">Click Here</a>
 
-## Python Programs and Videos
+## Python Programs  / Data Cleaning Videos
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 concatenate_file.py |  Concatenate Multiple CSV files |  [Program](https://github.com/randerson112358/Python/blob/master/concatenate_file.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://youtu.be/1VHhDSOwJPw_)
 remove_empty_row.py | Removes Empty Rows |  [Program](https://github.com/randerson112358/Python/blob/master/remove_empty_row.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://youtu.be/1VHhDSOwJPw_)
+replace_strings_with_numbers.py | Changes Strings in CSV to Numbers |  [Program](https://github.com/randerson112358/Python/blob/master/Replace_Strings_With_Numbers/replace_strings_with_numbers.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://youtu.be/zv_fzW2iA_U)
 ## Web Scraping 
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
