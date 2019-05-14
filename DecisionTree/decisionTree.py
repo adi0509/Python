@@ -13,7 +13,7 @@ import numpy as np
 # The new dataset with the integer values is called 'car_integer_exceptY.csv'
 # Get the integer dataset  here: https://github.com/randerson112358/Python/blob/master/DecisionTree/car_integer_exceptY.csv
 
-# Each attribute described below:
+# Each attribute/feature described below:
 # buying (buying price): v-high (4), high (3), med (2), low (1)
 # main (maintenance price): v-high (4), high (3), med (2), low (1)
 # door: 2, 3, 4, 5-more (5)
