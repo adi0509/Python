@@ -1,9 +1,16 @@
+#This program uses the Machine Learning Algorithm called a Decision Tree to classify a car as 
+#'unacceptable', 'accepted', 'good', or 'very good'
+# The classification is based off of other features/attributes like the cars 
+#'buying price', 'maintenance price', 'number of doors', 'number of passengers that fit in the car', 'size of luggage capacity', and 'safety'
+
+
 # For mathematical calculation
 import numpy as np
 
 # The original dataset is the car evaluation dataset from http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
-# We will classify the quality or values column of the car, after switching all of the values
-# except for our dependent variable 'values' column to integer values
+# We will classify the quality or values column of the car, after switching all of the values to integers
+# except for our dependent variable 'values' column to integer values.
+# Get the integer dataset here: 
 
 # Each attribute described below:
 # buying (buying price): v-high (4), high (3), med (2), low (1)
