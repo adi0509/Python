@@ -8,9 +8,10 @@
 import numpy as np
 
 # The original dataset is the car evaluation dataset from http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
-# We will classify the quality or values column of the car, after switching all of the values to integers
-# except for our dependent variable 'values' column to integer values.
-# Get the integer dataset here: https://github.com/randerson112358/Python/blob/master/DecisionTree/car_integer_exceptY.csv
+# We will classify the quality or values column of the car, after switching all of the values from the original dataset to integers
+# except for our dependent variable 'values' column.
+# The new dataset with the integer values is called 'car_integer_exceptY.csv'
+# Get the integer dataset  here: https://github.com/randerson112358/Python/blob/master/DecisionTree/car_integer_exceptY.csv
 
 # Each attribute described below:
 # buying (buying price): v-high (4), high (3), med (2), low (1)
