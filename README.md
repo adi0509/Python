@@ -20,7 +20,7 @@ scrape.py |  Scrape Website Links |  [Program](https://github.com/randerson11235
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 sentiment.py |  Sentiment Analysis |  [Program](https://github.com/randerson112358/Python/blob/master/sentiment.py) | [Blog](https://medium.com/@randerson112358/sentiment-analysis-e2e4442bac13) | [YouTube](https://youtu.be/1VHhDSOwJPw)
-LinearRegression.py |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/LinearRegression.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/z7jEJY8FbA8)
+LinearRegression.py |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/LinearRegression.py) | [Blog](https://medium.com/@randerson112358/a-simple-machine-learning-python-program-bf5d156d2cda) | [YouTube](https://youtu.be/z7jEJY8FbA8)
 decisionTree.py |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/DecisionTree/decisionTree.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://youtu.be/z7jEJY8FbA8sdhgsldhgsdig__X)
 
 
