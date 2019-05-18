@@ -24,3 +24,7 @@ LinearRegression.py |  Linear Regression |  [Program](https://github.com/randers
 decisionTree.py |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/DecisionTree/decisionTree.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://youtu.be/z7jEJY8FbA8sdhgsldhgsdig__X)
 
 
+# Relavent Books On Amazon
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=9dec6584d63a7cfcbc32af1ff9737bbf)
+* [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491912057&linkId=af650651a6d71fdea49cd5aa95653e1c)
+* [Learning Python, 5th Edition](https://www.amazon.com/gp/product/1449355730/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449355730&linkId=95e6eaf8c12b9fcd483dd06c1dd53e48)
