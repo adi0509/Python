@@ -3,7 +3,7 @@ This is a repository that holds my Python programs
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="400"/>
 </p>
-To see me programming in Python checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv">Click YouTube Channel</a>
+To see me programming in Python checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv">Go To YouTube Channel</a>
 
 
 
