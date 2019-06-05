@@ -3,10 +3,9 @@ This is a repository that holds my Python programs
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="400"/>
 </p>
-To see me programming in Python checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv">Click Here</a>
+To see me programming in Python checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv">Click YouTube Channel</a>
 
-# YouTube Channel
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uIP6tScPs01FW5WtSpJdmcv">Compsci112358</a>
+
 
 ## Python Programs  / Data Cleaning Videos
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
