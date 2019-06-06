@@ -53,8 +53,8 @@ tree.fit(X_train, Y_train)
 
 # Make your prediction
 # input:buying=v-high, main=high, doors=2, persons=6, lug_bot=med, safety=3
-# integer conversion of input: 4,3,2,1,2,3
-prediction = tree.predict([[4,3,2,6,2,3]])
+# integer conversion of input: 4,3,2,2,2,3
+prediction = tree.predict([[4,3,2,2,2,3]])
 
 #Print the prediction
 print('Printing the prediction: ')
