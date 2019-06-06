@@ -54,6 +54,7 @@ tree.fit(X_train, Y_train)
 # Make your prediction
 prediction = tree.predict([[4,3,2,1,2,3]])
 
+#Print the prediction
 print('Printing the prediction: ')
 print(prediction)
 
