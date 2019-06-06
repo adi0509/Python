@@ -18,7 +18,15 @@
 # persons (number of passengers fit in a car): 2, 4, more (6)
 # lug_boot (size of luggage capacity): small (1), med (2), high (3)
 # safety: low (1), med (2), high (3)
-# unacc = unaccepted, acc = accepted, good = good, vgood = very good
+# values: unacc = unaccepted, acc = accepted, good = good, vgood = very good
+
+# How did I create the new data set ?
+# By doing the following for every attribute / feature / column in the original data set (except 'values')
+# The following is only one example for the column buying. Note: there are other ways to convert the categorical data to integers
+#data.buying[ data.buying == 'low'] = 1
+#data.buying[ data.buying == 'med'] = 2
+#data.buying[ data.buying == 'high'] = 3
+#data.buying[ data.buying == 'vhigh'] = 4
 
 #read more: https://medium.com/machine-learning-guy/using-decision-tree-method-for-car-selection-problem-5272675451f9
 
@@ -42,11 +50,6 @@ tree = DecisionTreeClassifier(max_leaf_nodes=3, random_state=0)
 
 # Train the model
 tree.fit(X_train, Y_train)
-
-#data.buying[ data.buying == 'low'] = 1
-#data.buying[ data.buying == 'med'] = 2
-#data.buying[ data.buying == 'high'] = 3
-#data.buying[ data.buying == 'vhigh'] = 4
 
 # Make your prediction
 prediction = tree.predict([[4,3,2,1,2,3]])
