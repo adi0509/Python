@@ -12,11 +12,11 @@
 # Get the 'car_integer_exceptY.csv' dataset  here: https://github.com/randerson112358/Python/blob/master/DecisionTree/car_integer_exceptY.csv
 
 # Each attribute/feature described below:
-# buying (buying price): v-high (4), high (3), med (2), low (1)
-# main (maintenance price): v-high (4), high (3), med (2), low (1)
+# buying (buying price): vhigh (4), high (3), med (2), low (1)
+# main (maintenance price): vhigh (4), high (3), med (2), low (1)
 # doors (number of doors): 2, 3, 4, 5-more (5)
 # persons (number of passengers fit in a car): 2, 4, more (6)
-# lug_boot (size of luggage capacity): small (1), med (2), high (3)
+# lug_boot (size of luggage capacity): small (1), med (2), big (3)
 # safety: low (1), med (2), high (3)
 # values: unacc = unaccepted, acc = accepted, good = good, vgood = very good
 
@@ -52,11 +52,10 @@ tree = DecisionTreeClassifier(max_leaf_nodes=3, random_state=0)
 tree.fit(X_train, Y_train)
 
 # Make your prediction
-# input:buying=v-high, main=high, doors=2, persons=6, lug_bot=med, safety=3
+# input:buying=v-high, main=high, doors=2, persons=2, lug_boot=med, safety=3
 # integer conversion of input: 4,3,2,2,2,3
 prediction = tree.predict([[4,3,2,2,2,3]])
 
 #Print the prediction
 print('Printing the prediction: ')
 print(prediction)
-
