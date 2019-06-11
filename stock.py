@@ -19,7 +19,7 @@ df = df[['Adj. Close']]
 print(df.head())
 
 # A variable for predicting 'n' days out into the future
-forecast_out = 30
+forecast_out = 30 #forecast_out = 'n=30' days
 #Create another column (the target or dependent variable) shifted 'n' units up
 df['Prediction'] = df[['Adj. Close']].shift(-forecast_out)
 #print the new data set
