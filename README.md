@@ -26,6 +26,7 @@ LinearRegression.py |  Linear Regression |  [Program](https://github.com/randers
 decisionTree.py |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/DecisionTree/decisionTree.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/U-Jm8ugN0Ps)
 Golf_Predictions.ipynb |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/Golf_Predictions.ipynb) | [Blog](https://medium.com/@randerson112358/python-decision-tree-classifier-example-d73bc3aeca6) | [YouTube](https://youtu.be/bT-43kgYI3o)
 Predict_Boston_Housing_Price.ipynb |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/Predict_Boston_Housing_Price.ipynb) | [Blog](https://medium.com/@randerson112358/predict-boston-house-prices-using-python-linear-regression-90469e0a341) | [YouTube](https://youtu.be/gOXoFDrseis)
+stock.ipynb |  Linear Regression & SVR |  [Program](https://github.com/randerson112358/Python/blob/master/stock.ipynb) | [Blog](https://medium.com/@randerson112358/predict-boston-house-prices-using-python-linear-regression-90469e0a341) | [YouTube](https://youtu.be/EYnC4ACIt2g)
 
 
 # Relavent Books On Amazon
