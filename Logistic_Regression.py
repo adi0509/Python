@@ -61,6 +61,7 @@ model.fit(x_train, y_train) #Training the model
 
 #Test the model
 predictions = model.predict(x_test)
+print(predictions)
 
 #Check precision, recall, f1-score
 print( classification_report(y_test, predictions) )
