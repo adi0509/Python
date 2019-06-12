@@ -23,10 +23,10 @@ data.head()
 #Prepare the training set
 
 # X = feature values, all the columns except the last column
-X = data.iloc[:, :-1]
+X = data.iloc[:, :-1]# or data.loc[:,'sepal_length':'petal_width']
 
 # y = target values, last column of the data frame
-y = data.iloc[:, -1]
+y = data.iloc[:, -1]# or data.loc[:,'species']
 
 # Plot the relation of each feature with each species
 
