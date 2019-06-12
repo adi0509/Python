@@ -27,6 +27,7 @@ decisionTree.py |  Decision Tree |  [Program](https://github.com/randerson112358
 Golf_Predictions.ipynb |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/Golf_Predictions.ipynb) | [Blog](https://medium.com/@randerson112358/python-decision-tree-classifier-example-d73bc3aeca6) | [YouTube](https://youtu.be/bT-43kgYI3o)
 Predict_Boston_Housing_Price.ipynb |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/Predict_Boston_Housing_Price.ipynb) | [Blog](https://medium.com/@randerson112358/predict-boston-house-prices-using-python-linear-regression-90469e0a341) | [YouTube](https://youtu.be/gOXoFDrseis)
 stock.ipynb |  Linear Regression & SVR |  [Program](https://github.com/randerson112358/Python/blob/master/stock.ipynb) | [Blog](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a) | [YouTube](https://youtu.be/EYnC4ACIt2g)
+Logistic_Regression.ipynb |  Logistic Regression |  [Program](https://github.com/randerson112358/Python/blob/master/Logistic_Regression.ipynb) | [Blog](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a) | [YouTube](https://youtu.be/ACdBKML9l4s)
 
 
 # Relavent Books On Amazon
