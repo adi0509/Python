@@ -31,7 +31,7 @@ Classify Iris Species|Logistic_Regression.ipynb |  Logistic Regression |  [Progr
 Predict Median House Price|Neural_Networks.ipynb | Deep Neural Networks |  [Program](https://github.com/randerson112358/Python/blob/master/Neural_Networks/Neural_Networks.ipynb) | [Blog](https://medium.com/@randerson112358/predict-house-median-prices-5f1a768dd256?postPublishedType=repub) | [YouTube](https://youtu.be/vSzou5zRwNQ)
 Classify Handwritten Digits|MNIST_ANN.ipynb | Artificial Neural Networks |  [Program](https://github.com/randerson112358/Python/blob/master/MNIST_ANN.ipynb) | [Blog](https://medium.com/@randerson112358/classify-hand-written-digits-5fdbe5d99ee7) | [YouTube](https://youtu.be/kOFUQB7u5Ck)
 Cluster NBA Basketball Players|Basketball_Data_Exploration.ipynb | KMeans |  [Program](https://github.com/randerson112358/Python/blob/master/NBA_Basketball_Exploration/Basketball_Data_Exploration.ipynb) | [Blog](https://medium.com/@randerson112358/nba-data-analysis-exploration-9293f311e0e8) | [YouTube](https://youtu.be/2Pmf6Kqak3w)
-Predict FB Stock Price|SVM.ipynb | Support Vector Regression (SVR) |  [Program](https://github.com/randerson112358/Python/blob/master/SVM_Stock/SVM.ipynb) | [Blog](https://medium.com/@randerson112358/nba-data-analysis-exploration-9293f311e0e8) | [YouTube](https://youtu.be/tMPfZV_ipOg)
+Predict FB Stock Price|SVM.ipynb | Support Vector Regression (SVR) |  [Program](https://github.com/randerson112358/Python/blob/master/SVM_Stock/SVM.ipynb) | [Blog](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a) | [YouTube](https://youtu.be/tMPfZV_ipOg)
 
 
 # Relavent Books On Amazon
