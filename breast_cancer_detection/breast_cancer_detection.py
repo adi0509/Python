@@ -181,3 +181,12 @@ for i in range(len(model)):
   #Another way to get the models accuracy on the test data
   print( accuracy_score(Y_test, model[i].predict(X_test)))
   print()#Print a new line
+
+    
+#Print Prediction of Random Forest Classifier model
+pred = model[6].predict(X_test)
+print(pred)
+#Print a space
+print()
+#Print the actual values
+print(Y_test)
