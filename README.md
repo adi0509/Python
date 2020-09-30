@@ -1,5 +1,5 @@
 # Python
-This is a repository that holds my Python programs
+This is a repository that holds my Python programs.
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="400"/>
 </p>
@@ -40,4 +40,3 @@ Breast Cancer Detection|Breast_Cancer_Detection.ipynb | Random Forest Classifier
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=9dec6584d63a7cfcbc32af1ff9737bbf)
 * [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491912057&linkId=af650651a6d71fdea49cd5aa95653e1c)
 * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/gp/product/1449369413/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449369413&linkId=7b6ad9375121575c83af505f2a3ed6f3)
-
