@@ -1,5 +1,5 @@
 # Python
-This is a repository that holds my Python programs
+This is a repository that holds my Python programs(which are very helpful for beginners). 
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="400"/>
 </p>
