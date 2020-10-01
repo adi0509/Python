@@ -35,7 +35,7 @@ Predict FB Stock Price|SVM.ipynb | Support Vector Regression (SVR) |  [Program](
 Breast Cancer Detection|Breast_Cancer_Detection.ipynb | Random Forest Classifier & Gaussian Naive Bayes & Logistic Regression & Decision Tree Classifier & SVC |  [Program](https://github.com/randerson112358/Python/blob/master/breast_cancer_detection/Breast_Cancer_Detection.ipynb) | [Blog](https://medium.com/@randerson112358/breast-cancer-detection-using-machine-learning-38820fe98982) | [YouTube](https://youtu.be/NSSOyhJBmWY)
 
 
-# Relavent Books On Amazon
+# Relevant Books On Amazon
 * [Learning Python, 5th Edition](https://www.amazon.com/gp/product/1449355730/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449355730&linkId=95e6eaf8c12b9fcd483dd06c1dd53e48)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=9dec6584d63a7cfcbc32af1ff9737bbf)
 * [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491912057&linkId=af650651a6d71fdea49cd5aa95653e1c)
