@@ -1,0 +1,18 @@
+#import pandas Library
+import pandas as pd
+import numpy as np
+
+#Create a Pandas DataFrame using read_csv function that reads from a csv file
+df=pd.read_csv("car.csv")
+
+#creating dummy variables
+dummies=pd.get_dummies(df.buying)
+
+#concatenate dummies with original dataframe
+merged=pd.concat([df,dummies],axis='columns')
+
+#drop 
+final=merged.drop(['buying'],axis='columns')
+
+#write the dataframe to a csv file
+data.to_csv("car_example.csv")
