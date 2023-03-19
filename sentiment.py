@@ -1,14 +1,18 @@
 #pip install TextBlob
 
 #import TextBlob
+
 from textblob import TextBlob
 
-text = "Python is a very good language to learn"
+def calculate_sentiment(text):
+    blob = TextBlob(text)
+    sentiment = blob.sentiment.polarity
+    return sentiment
 
-obj = TextBlob(text)
-
-#returns the sentiment of text
-#by returning a value between -1.0 and 1.0
-sentiment = obj.sentiment.polarity
-
-print(sentiment)
+if __name__ == "__main__":
+    text = input("Enter the text: ")
+    try:
+        sentiment = calculate_sentiment(text)
+        print(f"Sentiment: {sentiment:.2f}")
+    except Exception as e:
+        print(f"Error: {e}")
